@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33549" started-at="2021-12-08T13:05:52 UTC" finished-at="2021-12-08T13:06:26 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33549" started-at="2021-12-08T13:05:52 UTC" finished-at="2021-12-08T13:06:26 UTC">
+      <class name="test.Page_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.Page_Test@130f889]" name="setup" is-config="true" duration-ms="1884" started-at="2021-12-08T13:05:52 UTC" finished-at="2021-12-08T13:05:54 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateHomePage()[pri:0, instance:test.Page_Test@130f889]" name="validateHomePage" duration-ms="3106" started-at="2021-12-08T13:05:54 UTC" finished-at="2021-12-08T13:05:57 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="validateContactPage()[pri:1, instance:test.Page_Test@130f889]" name="validateContactPage" duration-ms="5155" started-at="2021-12-08T13:05:57 UTC" finished-at="2021-12-08T13:06:02 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateContactPage -->
+        <test-method status="PASS" signature="validateAboutPage()[pri:2, instance:test.Page_Test@130f889]" name="validateAboutPage" duration-ms="4139" started-at="2021-12-08T13:06:02 UTC" finished-at="2021-12-08T13:06:07 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAboutPage -->
+        <test-method status="PASS" signature="validateLoginPage()[pri:3, instance:test.Page_Test@130f889]" name="validateLoginPage" duration-ms="4313" started-at="2021-12-08T13:06:07 UTC" finished-at="2021-12-08T13:06:11 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPage -->
+        <test-method status="PASS" signature="validateView_Products()[pri:4, instance:test.Page_Test@130f889]" name="validateView_Products" duration-ms="6348" started-at="2021-12-08T13:06:11 UTC" finished-at="2021-12-08T13:06:17 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateView_Products -->
+        <test-method status="PASS" signature="validateSignUp_Page()[pri:5, instance:test.Page_Test@130f889]" name="validateSignUp_Page" duration-ms="8489" started-at="2021-12-08T13:06:17 UTC" finished-at="2021-12-08T13:06:26 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSignUp_Page -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.Page_Test@130f889]" name="teardown" is-config="true" duration-ms="69" started-at="2021-12-08T13:06:26 UTC" finished-at="2021-12-08T13:06:26 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.Page_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
